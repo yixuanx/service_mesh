@@ -19,7 +19,9 @@ tensorflow / spark hbase | docker k8s (mysql/mariadb galera - redis sentinel - k
 
 
 <br/>
-其他平台: itsio, golang...
+
+## 其他平台: itsio, golang...
+
 * linux - istio - k8s/docker - jvm/go - springboot/go-libs - app  (ai, data)
 * 深度分析：Istio替代Spring Cloud的合理性 [https://cloud.tencent.com/developer/article/1070496]
 
