@@ -10,7 +10,7 @@ tensorflow / spark hbase - docker k8s (mysql/mariadb galera - redis sentinel - k
 
 
 ## core service:
-core service: enterpise application logics - springboot; cap: **jvm 多线程 协程 并发 nio cache 持久化 选主 连接池 多路复用  linux_kernel**
+core service: enterpise application logics - springboot; **cap: jvm 多线程 协程 并发 nio cache 持久化 选主 连接池 多路复用  linux_kernel**
 
 
 
