@@ -3,7 +3,7 @@
 
 AI engine | data stream | **core service engine** - openapi | app 
 --- | --- | --- | ---
-tensorflow / spark hbase | docker k8s (mysql/mariadb galera - redis sentinel - kafka zookeeper)  | **(springcloud) springboot** | vue(or react)/electron
+tensorflow / spark hbase | docker k8s (mysql/mariadb galera - redis sentinel - kafka zookeeper)  | **(springcloud - istio) springboot jvm/go(go-libs)** | vue(or react)/electron
 
 预测股价 教育 企业application
 
@@ -20,9 +20,7 @@ tensorflow / spark hbase | docker k8s (mysql/mariadb galera - redis sentinel - k
 
 <br/>
 
-## 其他平台: itsio, golang...
-
-* linux - istio - k8s/docker - jvm/go - springboot/go-libs - app  (ai, data)
+## 平台:
 * 深度分析：Istio替代Spring Cloud的合理性 [https://cloud.tencent.com/developer/article/1070496]
 
 
