@@ -20,8 +20,7 @@ tensorflow / spark hbase | docker k8s (mysql/mariadb galera - redis sentinel - k
 
 <br/>
 
-## 平台:
-* 深度分析：Istio替代Spring Cloud的合理性 [https://cloud.tencent.com/developer/article/1070496]
 
+深度分析：Istio替代Spring Cloud的合理性 https://cloud.tencent.com/developer/article/1070496
 
 Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
