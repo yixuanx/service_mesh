@@ -1,5 +1,6 @@
 # service_mesh
-知识倍速爆炸  平台技术升级  
+
+## 知识倍速爆炸  平台技术升级  
 
 AI engine - data stream - core service engine - openapi - app 
 
@@ -14,10 +15,10 @@ core service: enterpise application logics - springboot; cap: jvm 多线程 协�
 
 
 
-#service cloud:
+## service cloud:
 
 config / register / discovery / route / 智能lb <- service 1, 2...
 
-retry, timeout, 隔板，熔断, #queue# <- service 1 call 2...
+retry, timeout, 隔板，熔断, * queue * <- service 1 call 2...
 
 链路追踪 <- service 1 call 2 call 3...
