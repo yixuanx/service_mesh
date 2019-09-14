@@ -33,4 +33,5 @@ https://www.coursera.org/account/accomplishments/specialization/YXH22438SQJL
 *通才和专才之争，结论基本应该为：样样通，一样精。
 
 ### service mesh: 
-![alt text](https://github.com/yixuanx/service_mesh/blob/master/service_mesh.JPG "https://preliminary.istio.io/docs/examples/bookinfo/")
+![alt text](https://github.com/yixuanx/service_mesh/blob/master/service_mesh.JPG 
+"https://preliminary.istio.io/docs/examples/bookinfo/")
