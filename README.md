@@ -22,3 +22,11 @@ tensorflow / spark hbase | mysql/mariadb galera - redis sentinel - kafka zookeep
 
 
 *Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
+*My certificate: Deep Learning Specialization (Coursera, tensorflow/keras/python)
+https://www.coursera.org/account/accomplishments/specialization/YXH22438SQJL
+
+
+*通才和专才之争，结论基本应该为：样样通，一样精。
