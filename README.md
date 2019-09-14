@@ -3,10 +3,9 @@
 
 AI engine | data stream | **core service engine** - openapi | app 
 --- | --- | --- | ---
-tensorflow / spark hbase | docker k8s (mysql/mariadb galera - redis sentinel - kafka zookeeper)  | **(springcloud - istio) springboot jvm/go(go-libs)** | angular(or react, vue)/electron
+tensorflow / spark hbase | mysql/mariadb galera - redis sentinel - kafka zookeeper  | **(springcloud - istio/docker/k8s) springboot jvm/go(go-libs)** | angular(or react, vue)/electron
 
-预测股价 教育 企业application ad*
-
+预测股价 教育 企业application ad* => simple => flutter(web?) - springboot (mysql, redis)
 
 
 ## core service engine:
